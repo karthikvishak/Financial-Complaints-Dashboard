@@ -60,24 +60,6 @@ Consumer Disputed Rate
 Resolved at No Cost
 
 
-
-🚀 Getting Started
-
-Prerequisites
-
-
-Power BI Desktop (free) — latest version recommended
-
-
-Steps
-
-
-Clone or download this repository
-
-
-bash   git clone https://github.com/your-username/your-repo-name.git
-
-
 Open Power BI Desktop
 Go to File → Open report and select Financial_Complaints_Overview.pbix
 If prompted to refresh data, connect to your data source or use the embedded model
